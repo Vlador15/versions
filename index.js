@@ -38,5 +38,3 @@ version.appendText('Some additional information');
 
 // Выводим полную версию с текстом
 console.log(version.getFullVersion()); // Выведет: 1.2.4 Some additional information
-
-console.log('v: version');
