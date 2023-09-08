@@ -7,7 +7,7 @@
     "vw": "echo %npm_package_version%",
     "vl": "echo $npm_package_version",
     "commit": "git-cz",
-    "release": "standard-version -m ':bookmark: Release %s'",
+    "release": "standard-version",
     "version": "standard-version -m ':bookmark: Version %s'",
     "version:patch": "npm run version --release-as patch",
     "version:minor": "npm run version --release-as minor",
