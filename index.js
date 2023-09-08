@@ -25,6 +25,7 @@ class Version {
 const version = new Version(1, 2, 3);
 
 // Выводим текущую версию
+
 console.log(version.getVersion()); // Выведет: 1.2.3
 
 // Инкрементируем версию
