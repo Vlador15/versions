@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.6.1](https://github.com/Vlador15/versions/compare/v1.6.0...v1.6.1) (2023-09-08)
+
+
+### Bug Fixes
+
+* change url ([375d347](https://github.com/Vlador15/versions/commit/375d347f55afe036d90b0b98d898d12b6f3b9091))
+
 ## [1.6.0](https://github.com/Vlador15/versions/compare/v1.5.0...v1.6.0) (2023-09-08)
 
 
