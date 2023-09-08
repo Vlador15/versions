@@ -21,7 +21,6 @@ class Version {
     return `${this.major}.${this.minor}.${this.patch} ${this.text}`;
   }
 }
-
 // Пример использования класса Version
 const version = new Version(1, 2, 3);
 
