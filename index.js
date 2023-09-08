@@ -31,6 +31,7 @@ console.log(version.getVersion()); // Выведет: 1.2.3
 version.increment();
 
 // Выводим новую версию
+
 console.log(version.getVersion()); // Выведет: 1.2.4
 
 // Добавляем текст
