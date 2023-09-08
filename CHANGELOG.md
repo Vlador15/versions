@@ -2,6 +2,20 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/Vlador15/versions/compare/v1.5.0...v1.6.0) (2023-09-08)
+
+
+### Features
+
+* add new function ([e51a891](https://github.com/Vlador15/versions/commit/e51a8912a8f3b8705888831cecf5eb5ca2e5ce29))
+
+
+### Bug Fixes
+
+* add space ([e2bf78e](https://github.com/Vlador15/versions/commit/e2bf78e8dfdd4f157d56047946d80b56b6d8d31b))
+* delete char ([1ab1803](https://github.com/Vlador15/versions/commit/1ab1803e4054d4551abce0307d365f79cebb6516))
+* fix bug ([0638fb1](https://github.com/Vlador15/versions/commit/0638fb176f56e238a0d8b3a5d70e9fb901207cf0))
+
 ## [1.5.0](https://github.com/Vlador15/versions/compare/v1.4.0...v1.5.0) (2023-09-08)
 
 
