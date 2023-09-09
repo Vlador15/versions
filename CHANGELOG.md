@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.7.0-2](https://github.com/Vlador15/versions/compare/v1.7.0-1...v1.7.0-2) (2023-09-09)
+
+
+### Features
+
+* feat ([48fba17](https://github.com/Vlador15/versions/commit/48fba17359c799d6af1ec19eb203eb5027cbaac8))
+
 ## [1.7.0-1](https://github.com/Vlador15/versions/compare/v1.7.0-0...v1.7.0-1) (2023-09-09)
 
 ## [1.7.0-0](https://github.com/Vlador15/versions/compare/v1.6.1...v1.7.0-0) (2023-09-09)
