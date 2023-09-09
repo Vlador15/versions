@@ -1,12 +1,12 @@
 {
   "name": "project",
-  "version": "1.10.2",
+  "version": "1.10.3",
   "description": "",
   "main": "index.js",
   "scripts": {
     "v": "node -p \"require('./package.json').version\"",
     "commit": "git-cz",
-    "release": "standard-version -m ':bookmark: Version %s'",
+    "release": "standard-version",
     "version:patch": "standard-version --release-as patch",
     "version:minor": "standard-version --release-as minor",
     "version:major": "standard-version --release-as major"
