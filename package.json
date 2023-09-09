@@ -4,11 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "vw": "echo %npm_package_version%",
-    "vl": "echo $npm_package_version",
+    "v": "node -p \"require('./package.json').version\"",
     "commit": "git-cz",
-    "version": "standard-version -m ':bookmark: Version %s'",
-    "release": "standard-version",
+    "release": "standard-version -m ':bookmark: Version %s'",
     "version:patch": "standard-version --release-as patch",
     "version:minor": "standard-version --release-as minor",
     "version:major": "standard-version --release-as major"
