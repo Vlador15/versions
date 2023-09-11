@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.11.2](https://github.com/Vlador15/versions/compare/v1.11.1...v1.11.2) (2023-09-11)
+
+
+### Features
+
+* **index.js:** change text ([0c523e3](https://github.com/Vlador15/versions/commit/0c523e33daebda5aec53a6c48e37779b629626d6))
+
+
+### Bug Fixes
+
+* delet space ([6a9258c](https://github.com/Vlador15/versions/commit/6a9258cec286c774f825e4ad4313c550bc90e07b))
+
 ### [1.11.1](https://github.com/Vlador15/versions/compare/v1.11.0...v1.11.1) (2023-09-09)
 
 
