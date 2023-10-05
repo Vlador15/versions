@@ -22,8 +22,7 @@ class Version {
   }
 }
 // Пример использования класса Version
-const version = new Version(1, 2, 3);
-
+const version = new Version();
 // Выводим текущую версию
 
 console.log(version.getVersion()); // Выведет: 1.2.3
