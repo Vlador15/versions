@@ -32,7 +32,7 @@ version.increment();
 
 // Выводим новую версию
 
-console.log(version.getVersion()); // Выведет: 1.2.4
+console.log(version.getVersion()); //  Выведет: 1.2.4
 
 // Добавляем текст
 version.appendText('Some additional    information');
