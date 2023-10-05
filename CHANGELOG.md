@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.13.0](https://github.com/Vlador15/versions/compare/v1.12.0...v1.13.0) (2023-10-05)
+
+
+### Features
+
+* EC-1234 new module ([7a59915](https://github.com/Vlador15/versions/commit/7a59915e5c7f570c00cd92945cc2b14fb2530fcb))
+
+
+### Bug Fixes
+
+* EC-1234 bugfix text ([99904e3](https://github.com/Vlador15/versions/commit/99904e304d37069ccfccbb32a6ba412ac8ae5a79))
+
 ## [1.12.0](https://github.com/Vlador15/versions/compare/v1.11.5...v1.12.0) (2023-10-05)
 
 
