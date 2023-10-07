@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.13.2](https://github.com/Vlador15/versions/compare/v1.13.1...v1.13.2) (2023-10-07)
+
+
+### Bug Fixes
+
+* EC-1234 add space ([be3bfef](https://github.com/Vlador15/versions/commit/be3bfef25db206e12e4529f0cd69d0f47458c449))
+
 ### [1.13.1](https://github.com/Vlador15/versions/compare/v1.13.0...v1.13.1) (2023-10-07)
 
 
